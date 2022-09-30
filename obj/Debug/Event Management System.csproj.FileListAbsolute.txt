@@ -1,0 +1,38 @@
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\bin\Debug\Event Management System.exe.config
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\bin\Debug\Event Management System.exe
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\bin\Debug\Event Management System.pdb
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.AddRem_Participants.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.Client_Management.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.Event_Management.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.Manage_Logins.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.Login.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.R_Participant.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.Properties.Resources.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event Management System.csproj.GenerateResource.Cache
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event Management System.exe
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event Management System.pdb
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event Management System.csprojResolveAssemblyReference.cache
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event_Management_System.UserMainMenu.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\bin\Debug\Event Management System.exe.manifest
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\bin\Debug\Event Management System.application
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event Management System.exe.manifest
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Event Management System\Event Management System\obj\Debug\Event Management System.application
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\bin\Debug\Event Management System.exe.config
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event Management System.exe
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event Management System.pdb
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\bin\Debug\Event Management System.exe.manifest
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\bin\Debug\Event Management System.application
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\bin\Debug\Event Management System.exe
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\bin\Debug\Event Management System.pdb
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event Management System.csprojResolveAssemblyReference.cache
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.AddRem_Participants.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.Client_Management.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.Event_Management.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.Manage_Logins.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.Login.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.R_Participant.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.Properties.Resources.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event_Management_System.UserMainMenu.resources
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event Management System.csproj.GenerateResource.Cache
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event Management System.exe.manifest
+C:\Others\ICBT Assigments\ICBT Assignemnt 8\Finalized\Event Management System\Event Management System\obj\Debug\Event Management System.application
